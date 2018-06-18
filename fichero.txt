@@ -1,0 +1,95 @@
+name1 surname streetA 9999A +34123456789  Insercion correcta
+name2 surname2 streetB 8888B +34 333456789  Insercion correcta
+9999A 147  Error de Modificacion
+name1 surname  Nombre: name1
+Apellidos: surname
+Direccion: streetA
+Dni: 9999A
+Telefono: +34123456789
+--------------------------
+
+9999A 9999  Error de Modificacion
+name6 surname6 street6 6666 6611  Insercion correcta
+6666  error delete
+nameQ surnameQ streetQ 5555Q 15943528  Insercion correcta
+8888B  error delete
+5555Q 1  Error de Modificacion
+name1 surnmae  
+name1 surname  Nombre: name1
+Apellidos: surname
+Direccion: streetA
+Dni: 9999A
+Telefono: +34123456789
+--------------------------
+
+nameB surnameB streetB 4444B 123456  Insercion correcta
+name1 surname  Nombre: name1
+Apellidos: surname
+Direccion: streetA
+Dni: 9999A
+Telefono: +34123456789
+--------------------------
+
+nameB SurnameB  
+nameB surnameB  Nombre: nameB
+Apellidos: surnameB
+Direccion: streetB
+Dni: 4444B
+Telefono: 123456
+--------------------------
+
+qnks casd  
+sdv sdgs  
+sdv sdgs  
+111 11  
+Name1 surname  
+name1 surname  Nombre: name1
+Apellidos: surname
+Direccion: streetA
+Dni: 9999A
+Telefono: +34123456789
+--------------------------
+
+name1 surname  Nombre: name1
+Apellidos: surname
+Direccion: streetA
+Dni: 9999A
+Telefono: +34123456789
+--------------------------
+
+9999A  error delete
+name1 surname1 street1 1111 11111  Insercion correcta
+11111 9999999  Error de Modificacion
+name1 surname1  Nombre: name1
+Apellidos: surname1
+Direccion: street1
+Dni: 1111
+Telefono: 11111
+--------------------------
+
+name2 surname2 street2 2222 2222  Insercion correcta
+2222 +342222  Error de Modificacion
+2222 +342222  Modificacion correcta
+name2 surname2  Nombre: name2
+Apellidos: surname2
+Direccion: street2
+Dni: 2222
+Telefono: +342222
+--------------------------
+
+name1 surname1  Nombre: name1
+Apellidos: surname1
+Direccion: street1
+Dni: 1111
+Telefono: 11111
+--------------------------
+
+name5 surname5 street5 5555 +345555  Insercion correcta
+4444B +34444  Modificacion correcta
+nameQ surnameQ  Nombre: nameQ
+Apellidos: surnameQ
+Direccion: streetQ
+Dni: 5555Q
+Telefono: 15943528
+--------------------------
+
